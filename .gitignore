@@ -78,3 +78,6 @@ jspm_packages/
 
 # Vite output
 dist
+
+# shopify config storefront API access token
+shopify.config.js
